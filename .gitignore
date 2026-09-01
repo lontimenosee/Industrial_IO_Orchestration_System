@@ -1,13 +1,26 @@
+# Python
 __pycache__/
 *.pyc
 
-.idea/
+# IDE
 .vscode/
+.idea/
 
-dist/
-build/
+# 数据文件
+input/
+output/
 
-*.xlsx
+# 工程大文件
+*.dwg
+*.dxf
+*.pdf
 *.xls
+*.xlsx
 
+# 日志
 logs/
+
+# 模型
+models/
+*.bin
+*.gguf
