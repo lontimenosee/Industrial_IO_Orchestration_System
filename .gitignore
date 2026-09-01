@@ -5,6 +5,7 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+*.code-workspace
 
 # 数据文件
 input/
