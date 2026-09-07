@@ -1,6 +1,9 @@
 # Python
 __pycache__/
 *.pyc
+.venv/
+.pytest_cache/
+src/gui.py
 
 # IDE
 .vscode/
@@ -17,6 +20,7 @@ output/
 *.pdf
 *.xls
 *.xlsx
+
 
 # 日志
 logs/
